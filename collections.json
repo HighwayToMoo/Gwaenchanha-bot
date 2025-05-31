@@ -1,0 +1,540 @@
+{
+    "993481661796864081": [
+        {
+            "group": "ZEROBASEONE",
+            "name": "Gunwook",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105052337668289/8_20250530_221622_0007.png?ex=683b63d8&is=683a1258&hm=6ee1599101fbb8827f2604a9b792a1f88fc9db542151e20e2341f5d8ad8c2931&",
+            "code": "4UL2V28O",
+            "era": "Boys Planet"
+        },
+        {
+            "group": "ZEROBASEONE",
+            "name": "Matthew",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378097565026746438/Design_sans_titre_20250530_214718_0000.png?ex=683b5cdf&is=683a0b5f&hm=377090466c1cf5bc304ca25b17656486ce8b801204caae757724ae9214436a72&",
+            "code": "1UQKUHW6",
+            "era": "Boys Planet"
+        },
+        {
+            "group": "ZEROBASEONE",
+            "name": "Ricky",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105002966515794/2_20250530_221621_0001.png?ex=683b63cc&is=683a124c&hm=3bb5dea0f8545b910da9778ad0f568448fff5555fb683aa338c855a556f9801d&",
+            "code": "6D438I66",
+            "stars": 1
+        },
+        {
+            "group": "ZEROBASEONE",
+            "name": "Taerae",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105061263282236/7_20250530_221622_0006.png?ex=683b63da&is=683a125a&hm=63b758835c598aeb65e7268a658b2d3330dde88a77c41c28f56e3caebf36cc22&",
+            "code": "YJI6NKKQ",
+            "stars": 1
+        },
+        {
+            "group": "ZEROBASEONE",
+            "name": "Gunwook",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105052337668289/8_20250530_221622_0007.png?ex=683b63d8&is=683a1258&hm=6ee1599101fbb8827f2604a9b792a1f88fc9db542151e20e2341f5d8ad8c2931&",
+            "code": "1KSWWDNM",
+            "stars": 1
+        },
+        {
+            "group": "ZEROBASEONE",
+            "name": "Gyuvin",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378122806386102403/9_20250530_232700_0008.png?ex=683b7461&is=683a22e1&hm=22f2220ba771deb3e58cff06abf829962de34f45e5342558fe30dc25a865dc11&",
+            "code": "78IQMCP7",
+            "stars": 2
+        },
+        {
+            "name": "Gyunvin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156471639871618/9_20250531_013914_0008.png?ex=683b93bb&is=683a423b&hm=8b804653a4a8763deff7328d282cf3d8bca26ec8cace9ed4e24d523d8351c103&",
+            "code": "MY13GCYQ"
+        },
+        {
+            "name": "Matthew",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378097565026746438/Design_sans_titre_20250530_214718_0000.png?ex=683b5cdf&is=683a0b5f&hm=377090466c1cf5bc304ca25b17656486ce8b801204caae757724ae9214436a72&",
+            "code": "DBWAESKH"
+        },
+        {
+            "name": "Jiwoong",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104976869556264/4_20250530_221621_0003.png?ex=683b63c6&is=683a1246&hm=c3472a22c7745b305b6d19dbd1aaf39dc58e54a5825c44000c84e38b6b6e9549&",
+            "code": "PDR0BL14"
+        },
+        {
+            "name": "Zhang Hao",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156392543682680/3_20250531_013914_0002.png?ex=683b93a8&is=683a4228&hm=4b3b4b1cba77a897fbded5396aa0bad34bab859ef918c27e6ffb3877f1ce5210&",
+            "code": "O8OQ4VA4"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 3,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378174142519709767/5_20250531_025048_0004.png?ex=683ba430&is=683a52b0&hm=90230ae25b837ffb2f334e1896d90216c15c506299f93ae7ce9157abe806c381&",
+            "code": "AO5QGTYJ"
+        },
+        {
+            "name": "Jiwoong",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156450140127282/7_20250531_013914_0006.png?ex=683b93b6&is=683a4236&hm=1646634b9dff0567f027b8c870e297da58a13afdb07ef47f32999017d7db6127&",
+            "code": "BUZO98NQ"
+        },
+        {
+            "name": "Jiwoong",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 2,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378161727446847539/7_20250531_020155_0006.png?ex=683b98a0&is=683a4720&hm=bf5c9a17bb179058dc5dd9eaa10630e41f12887bb6e130d11f32afa54641eb86&",
+            "code": "9APPTFI9"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156411753861132/5_20250531_013914_0004.png?ex=683b93ad&is=683a422d&hm=53600260cb641d7a385352f819c6cc03d41a0c256444d907bd149af713d1dfea&",
+            "code": "ZF7FTDRD"
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156438983016528/6_20250531_013914_0005.png?ex=683b93b3&is=683a4233&hm=545142fd1579173697e1658b77d608b0cf4d3ec262679c3c7e65d019f002e56a&",
+            "code": "VLVPWR1M"
+        },
+        {
+            "name": "Gunwook",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105052337668289/8_20250530_221622_0007.png?ex=683b63d8&is=683a1258&hm=6ee1599101fbb8827f2604a9b792a1f88fc9db542151e20e2341f5d8ad8c2931&",
+            "code": "LY69NWWB"
+        },
+        {
+            "name": "Jiwoong",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104976869556264/4_20250530_221621_0003.png?ex=683b63c6&is=683a1246&hm=c3472a22c7745b305b6d19dbd1aaf39dc58e54a5825c44000c84e38b6b6e9549&",
+            "code": "4R54J7TT"
+        },
+        {
+            "name": "Gunwook",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105052337668289/8_20250530_221622_0007.png?ex=683b63d8&is=683a1258&hm=6ee1599101fbb8827f2604a9b792a1f88fc9db542151e20e2341f5d8ad8c2931&",
+            "code": "R39HWOVX"
+        },
+        {
+            "name": "Gyunvin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156471639871618/9_20250531_013914_0008.png?ex=683b93bb&is=683a423b&hm=8b804653a4a8763deff7328d282cf3d8bca26ec8cace9ed4e24d523d8351c103&",
+            "code": "RLKIUV8F"
+        },
+        {
+            "name": "Matthew",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156373933686804/1_20250531_013914_0000.png?ex=683b93a4&is=683a4224&hm=78ca4e6f9eb5f8af345673905c7f9237320220696d4e2587f18640c956fb8528&",
+            "code": "T86CMVT0"
+        },
+        {
+            "name": "Zhang Hao",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105012999163965/1_20250530_221621_0000.png?ex=683b63cf&is=683a124f&hm=3c254b06160352cc01c232ecb5400d55230d5d57801593080380b0eeff62bfdb&",
+            "code": "2LRGCEW5"
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105002966515794/2_20250530_221621_0001.png?ex=683b63cc&is=683a124c&hm=3bb5dea0f8545b910da9778ad0f568448fff5555fb683aa338c855a556f9801d&",
+            "code": "9ZI3XOJT",
+            "stars": 1
+        },
+        {
+            "name": "Zhang Hao",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156392543682680/3_20250531_013914_0002.png?ex=683b93a8&is=683a4228&hm=4b3b4b1cba77a897fbded5396aa0bad34bab859ef918c27e6ffb3877f1ce5210&",
+            "code": "ML0PXK2A"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156411753861132/5_20250531_013914_0004.png?ex=683b93ad&is=683a422d&hm=53600260cb641d7a385352f819c6cc03d41a0c256444d907bd149af713d1dfea&",
+            "code": "8XYFXOW0"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105061263282236/7_20250530_221622_0006.png?ex=683b63da&is=683a125a&hm=63b758835c598aeb65e7268a658b2d3330dde88a77c41c28f56e3caebf36cc22&",
+            "code": "ZBQ875KF"
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156438983016528/6_20250531_013914_0005.png?ex=683b93b3&is=683a4233&hm=545142fd1579173697e1658b77d608b0cf4d3ec262679c3c7e65d019f002e56a&",
+            "code": "ZWG9BV9J"
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105002966515794/2_20250530_221621_0001.png?ex=683b63cc&is=683a124c&hm=3bb5dea0f8545b910da9778ad0f568448fff5555fb683aa338c855a556f9801d&",
+            "code": "YXG3FYKZ",
+            "stars": 1
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156438983016528/6_20250531_013914_0005.png?ex=683b93b3&is=683a4233&hm=545142fd1579173697e1658b77d608b0cf4d3ec262679c3c7e65d019f002e56a&",
+            "code": "1QVW8MX1"
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156438983016528/6_20250531_013914_0005.png?ex=683b93b3&is=683a4233&hm=545142fd1579173697e1658b77d608b0cf4d3ec262679c3c7e65d019f002e56a&",
+            "code": "JXMETRGV"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156411753861132/5_20250531_013914_0004.png?ex=683b93ad&is=683a422d&hm=53600260cb641d7a385352f819c6cc03d41a0c256444d907bd149af713d1dfea&",
+            "code": "R0LFWT4R"
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105002966515794/2_20250530_221621_0001.png?ex=683b63cc&is=683a124c&hm=3bb5dea0f8545b910da9778ad0f568448fff5555fb683aa338c855a556f9801d&",
+            "code": "QNYC4Q3E",
+            "stars": 1
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105002966515794/2_20250530_221621_0001.png?ex=683b63cc&is=683a124c&hm=3bb5dea0f8545b910da9778ad0f568448fff5555fb683aa338c855a556f9801d&",
+            "code": "I0BWHMCW",
+            "stars": 1
+        },
+        {
+            "name": "Hanbin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 2,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378122717919973386/4_20250530_232700_0003.png?ex=683b744c&is=683a22cc&hm=df9821d4375cc55e9887586a6e0d6bed2093369abdfd598f642dda0e06dc7929&",
+            "code": "GZG66DOU"
+        },
+        {
+            "name": "Jiwoong",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104976869556264/4_20250530_221621_0003.png?ex=683b63c6&is=683a1246&hm=c3472a22c7745b305b6d19dbd1aaf39dc58e54a5825c44000c84e38b6b6e9549&",
+            "code": "HOTYGFPN"
+        },
+        {
+            "name": "Zhang Hao",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105012999163965/1_20250530_221621_0000.png?ex=683b63cf&is=683a124f&hm=3c254b06160352cc01c232ecb5400d55230d5d57801593080380b0eeff62bfdb&",
+            "code": "SKW8G1U5"
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156383307956375/2_20250531_013914_0001.png?ex=683b93a6&is=683a4226&hm=fd9d195650750c057f427ec8758607f7994a05b9913f04e8d174c293c4c45077&",
+            "code": "8Q480XE8"
+        }
+    ],
+    "254927632834101248": [
+        {
+            "group": "ZEROBASEONE",
+            "name": "Hanbin",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104992853921792/3_20250530_221621_0002.png?ex=683b63ca&is=683a124a&hm=afbae89d5a0c7f06a535f34c076aada284ee99a0e62fd78516155c46814aea7e&",
+            "code": "WM9TTGPJ",
+            "era": "Boys Planet"
+        },
+        {
+            "group": "ZEROBASEONE",
+            "name": "Taerae",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105061263282236/7_20250530_221622_0006.png?ex=683b63da&is=683a125a&hm=63b758835c598aeb65e7268a658b2d3330dde88a77c41c28f56e3caebf36cc22&",
+            "code": "5CNMAEMV",
+            "stars": 1
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 2,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378124851033804920/6_20250530_233526_0005.png?ex=683b7648&is=683a24c8&hm=3f1fb9e27f6d56b30fc64fc9bd91c70e3c6c33c5605643589dfdb35552244435&",
+            "code": "G30ICT1U"
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104945089446018/6_20250530_221621_0005.png?ex=683b63be&is=683a123e&hm=de2e5b2f38be7c86633d8e2f957fb172c034f45c52ae5d451da62b200438018e&",
+            "code": "W1CMAULS"
+        },
+        {
+            "name": "Hanbin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156401880203325/4_20250531_013914_0003.png?ex=683b93ab&is=683a422b&hm=ae944ef83686d1024650d03a9641ea49d3dcbdb3ecec44e8f55b5b0afd274c1e&",
+            "code": "UFKZPUF5"
+        },
+        {
+            "name": "Zhang Hao",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156392543682680/3_20250531_013914_0002.png?ex=683b93a8&is=683a4228&hm=4b3b4b1cba77a897fbded5396aa0bad34bab859ef918c27e6ffb3877f1ce5210&",
+            "code": "PFNK2Y7T"
+        },
+        {
+            "name": "Matthew",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156373933686804/1_20250531_013914_0000.png?ex=683b93a4&is=683a4224&hm=78ca4e6f9eb5f8af345673905c7f9237320220696d4e2587f18640c956fb8528&",
+            "code": "ANLL6ORM"
+        },
+        {
+            "name": "Matthew",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156373933686804/1_20250531_013914_0000.png?ex=683b93a4&is=683a4224&hm=78ca4e6f9eb5f8af345673905c7f9237320220696d4e2587f18640c956fb8528&",
+            "code": "7AOXYJ7O"
+        },
+        {
+            "name": "Hanbin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104992853921792/3_20250530_221621_0002.png?ex=683b63ca&is=683a124a&hm=afbae89d5a0c7f06a535f34c076aada284ee99a0e62fd78516155c46814aea7e&",
+            "code": "RFX5J6RU"
+        },
+        {
+            "name": "Hanbin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104992853921792/3_20250530_221621_0002.png?ex=683b63ca&is=683a124a&hm=afbae89d5a0c7f06a535f34c076aada284ee99a0e62fd78516155c46814aea7e&",
+            "code": "HEFXOKFO"
+        },
+        {
+            "name": "Gyuvin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104963078684792/5_20250530_221621_0004.png?ex=683b63c3&is=683a1243&hm=d8d6d26090a8359b5d6062bda3d1de96db76b48d75adb2751b699d785e2746aa&",
+            "code": "TB2QN4DW"
+        },
+        {
+            "name": "Jiwoong",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156450140127282/7_20250531_013914_0006.png?ex=683b93b6&is=683a4236&hm=1646634b9dff0567f027b8c870e297da58a13afdb07ef47f32999017d7db6127&",
+            "code": "ILH24AFT"
+        },
+        {
+            "name": "Gyunvin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156471639871618/9_20250531_013914_0008.png?ex=683b93bb&is=683a423b&hm=8b804653a4a8763deff7328d282cf3d8bca26ec8cace9ed4e24d523d8351c103&",
+            "code": "UYDVH1C1"
+        },
+        {
+            "name": "Gyunvin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156471639871618/9_20250531_013914_0008.png?ex=683b93bb&is=683a423b&hm=8b804653a4a8763deff7328d282cf3d8bca26ec8cace9ed4e24d523d8351c103&",
+            "code": "72RSE9KM"
+        },
+        {
+            "name": "Matthew",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378097565026746438/Design_sans_titre_20250530_214718_0000.png?ex=683b5cdf&is=683a0b5f&hm=377090466c1cf5bc304ca25b17656486ce8b801204caae757724ae9214436a72&",
+            "code": "Y7N1JX0V"
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156438983016528/6_20250531_013914_0005.png?ex=683b93b3&is=683a4233&hm=545142fd1579173697e1658b77d608b0cf4d3ec262679c3c7e65d019f002e56a&",
+            "code": "29E7G5TE"
+        },
+        {
+            "name": "Yujin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104945089446018/6_20250530_221621_0005.png?ex=683b63be&is=683a123e&hm=de2e5b2f38be7c86633d8e2f957fb172c034f45c52ae5d451da62b200438018e&",
+            "code": "NNHMPOOD"
+        },
+        {
+            "name": "Gyuvin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104963078684792/5_20250530_221621_0004.png?ex=683b63c3&is=683a1243&hm=d8d6d26090a8359b5d6062bda3d1de96db76b48d75adb2751b699d785e2746aa&",
+            "code": "YIPNEJ91"
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105002966515794/2_20250530_221621_0001.png?ex=683b63cc&is=683a124c&hm=3bb5dea0f8545b910da9778ad0f568448fff5555fb683aa338c855a556f9801d&",
+            "code": "1KICJBRL",
+            "stars": 1
+        },
+        {
+            "name": "Zhang Hao",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105012999163965/1_20250530_221621_0000.png?ex=683b63cf&is=683a124f&hm=3c254b06160352cc01c232ecb5400d55230d5d57801593080380b0eeff62bfdb&",
+            "code": "TWH14W0J"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105061263282236/7_20250530_221622_0006.png?ex=683b63da&is=683a125a&hm=63b758835c598aeb65e7268a658b2d3330dde88a77c41c28f56e3caebf36cc22&",
+            "code": "BS1CE9MS"
+        }
+    ],
+    "698952121222955008": [
+        {
+            "group": "ZEROBASEONE",
+            "name": "Zhang Hao",
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105012999163965/1_20250530_221621_0000.png?ex=683b63cf&is=683a124f&hm=3c254b06160352cc01c232ecb5400d55230d5d57801593080380b0eeff62bfdb&",
+            "code": "0U4KB5ZG",
+            "era": "Boys Planet"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105061263282236/7_20250530_221622_0006.png?ex=683b63da&is=683a125a&hm=63b758835c598aeb65e7268a658b2d3330dde88a77c41c28f56e3caebf36cc22&",
+            "code": "NV3Q8U8L"
+        },
+        {
+            "name": "Hanbin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104992853921792/3_20250530_221621_0002.png?ex=683b63ca&is=683a124a&hm=afbae89d5a0c7f06a535f34c076aada284ee99a0e62fd78516155c46814aea7e&",
+            "code": "4V9VQLYP"
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 2,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378124809874968636/2_20250530_232700_0001.png?ex=683b763e&is=683a24be&hm=815c7dad602f12c7772096bb14897e34a3f4f11e7c11a811d7f4b0d60774a885&",
+            "code": "PALYVQ9F"
+        },
+        {
+            "name": "Gyuvin",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378104963078684792/5_20250530_221621_0004.png?ex=683b63c3&is=683a1243&hm=d8d6d26090a8359b5d6062bda3d1de96db76b48d75adb2751b699d785e2746aa&",
+            "code": "6PHNA4O5"
+        },
+        {
+            "name": "Ricky",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156383307956375/2_20250531_013914_0001.png?ex=683b93a6&is=683a4226&hm=fd9d195650750c057f427ec8758607f7994a05b9913f04e8d174c293c4c45077&",
+            "code": "5PHS3VOI"
+        },
+        {
+            "name": "Matthew",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378097565026746438/Design_sans_titre_20250530_214718_0000.png?ex=683b5cdf&is=683a0b5f&hm=377090466c1cf5bc304ca25b17656486ce8b801204caae757724ae9214436a72&",
+            "code": "N3KR89FN"
+        },
+        {
+            "name": "Hanbin",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156401880203325/4_20250531_013914_0003.png?ex=683b93ab&is=683a422b&hm=ae944ef83686d1024650d03a9641ea49d3dcbdb3ecec44e8f55b5b0afd274c1e&",
+            "code": "UJ4T52E6"
+        },
+        {
+            "name": "Gunwook",
+            "group": "ZEROBASEONE",
+            "era": "Youth In The Shade",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378156460881744003/8_20250531_013914_0007.png?ex=683b93b9&is=683a4239&hm=c63f2549910bafef4f32b43dd43dfbb938da6dfa9ad1a0899cd8d4b658a75d8c&",
+            "code": "2NLW2D92"
+        },
+        {
+            "name": "Taerae",
+            "group": "ZEROBASEONE",
+            "era": "Boys Planet",
+            "stars": 1,
+            "image": "https://cdn.discordapp.com/attachments/1378034644108312576/1378105061263282236/7_20250530_221622_0006.png?ex=683b63da&is=683a125a&hm=63b758835c598aeb65e7268a658b2d3330dde88a77c41c28f56e3caebf36cc22&",
+            "code": "52MGY3BD"
+        }
+    ]
+}
