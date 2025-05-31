@@ -10,7 +10,6 @@ from flask import Flask
 from threading import Thread
 from discord.ext import commands
 from discord.ui import View, Button
-from keep_alive import keep_alive
 
 def generate_code(length=8):
     return ''.join(random.choices(string.ascii_uppercase + string.digits, k=length))
@@ -967,6 +966,4 @@ async def on_ready():
     check_reminders.start()
 
 app = Flask('')
-
-keep_alive()
 bot.run(token)
